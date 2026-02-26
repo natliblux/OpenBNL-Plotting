@@ -7,8 +7,9 @@ The newspapers are then plotted showing their periodicity.
 ## Requirements
 * Python 3.12
 * [requests](https://pypi.org/project/requests/): HTTP library to run HTTP requests
-* [yarl](https://pypi.org/project/yarl/): format the output URL into a clickable URL link
+* [matplotlib](https://matplotlib.org/): creating visualisations in Python
 ## Usage
-The notebook can be run online using Binder/JupyterLab.
+The notebook can be run online using [Binder/JupyterLab](https://mybinder.org/v2/gh/natliblux/OpenBNL-Plotting/9237a72eb2796e1663bc72e5bd657c5667106b2e?urlpath=lab%2Ftree%2Fsrc%2FPlotting%20Newspaper%20Data.ipynb).
 ## Result
 Below is a sample of the results produced by this project.
+![Sample results](Sample%20results.png)
